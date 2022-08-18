@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kwamebio
 - 👀 I’m interested in backend engineering
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python related projects for now
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Ruby
+- 💞️ I’m looking to collaborate on JavaScript and Ruby related projects for now
 - 📫 How to reach me kwameagyemang73@gmail.com
 
 <!---
